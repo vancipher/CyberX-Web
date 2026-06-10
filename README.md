@@ -203,7 +203,9 @@ Built by the **Cyber X** team. This mirror is maintained by [Van De Cipher](http
 
 ## License
 
-Team project — contact Cyber X for usage inquiries.
+**Van Cipher Restricted License v1.0** — see [LICENSE](LICENSE).
+
+Cyber X team website — **all rights reserved**. You may read this repo for learning. **Hosting, forking for use, or reusing this codebase requires written permission** from [Abdullah Y. Habash (@vancipher)](https://github.com/vancipher) / [Cyber X](https://cyberxsec.me).
 
 ---
 
